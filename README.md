@@ -4,25 +4,6 @@
 
 The GeometryToolkit is a C++ project that provides utilities for geometric calculations. The project includes source files, example applications, and test cases to demonstrate and validate the functionality of the toolkit.
 
-## Project Structure
-
-GeometryToolkit/
-├── CMakeLists.txt # CMake build configuration file
-├── src/ # Source files
-│ ├── Point.cpp
-│ ├── Point.hpp
-│ ├── GeometryUtils.cpp
-│ ├── GeometryUtils.hpp
-│ └── input.cpp
-│ └── input.hpp
-├── examples/ # Example programs
-│ └── DistanceCalculator.cpp
-├── tests/ # Test programs
-│ ├── TestGeometryUtils.cpp
-│ └── TestDegeneracy.cpp
-└── build/ # Output build directory (created during the build process)
-
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
